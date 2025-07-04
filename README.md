@@ -1,4 +1,4 @@
-# password-strength-checker-task3
+PRODIGY_CS_03
 # 🔐 Password Strength Checker
 
 ### Internship Task 3 - Prodigy Infotech
